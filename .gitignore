@@ -39,4 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-# project notes (internal planning, daily logs)/contexto
+# project notes (internal planning, daily logs)
+/contexto
+
